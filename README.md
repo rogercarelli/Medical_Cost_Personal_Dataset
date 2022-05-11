@@ -1,5 +1,5 @@
 # Medical Cost Personal Dataset
-A simple a pure data analysis of medical cost for people of different age, sex, children, smoking habits. 
+A simple data analysis of medical cost for people of different age, gender, with children and smoking habits. 
 
 ## Content
 ---
@@ -14,4 +14,3 @@ A simple a pure data analysis of medical cost for people of different age, sex, 
 * region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
 * charges: Individual medical costs billed by health insurance
 ---
-
