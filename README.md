@@ -2,7 +2,6 @@
 A simple data analysis of medical cost for people of different age, gender, with children and smoking habits. 
 
 ## Content
----
 
 **Columns**
 * age: age of primary beneficiary
@@ -13,14 +12,12 @@ A simple data analysis of medical cost for people of different age, gender, with
 * smoker: Smoking
 * region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
 * charges: Individual medical costs billed by health insurance
----
 
 ## Data sources
 The data is available for download at kaggle.com at Miri Choi's profile: [data link](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 
 This data is outdated and there is no way to validate its quality. Although, the data is clean and has no empty values. 
 
----
 
 ## Manipulation of data
 The data was relatively clean, just a few ajustments were made. 
@@ -29,7 +26,6 @@ One duplicated row was removed and couple of outliers. The outliers were couple 
 
 For futher information, please access the jupyter notebook file: [click here](https://github.com/rogercarelli/Medical_Cost_Personal_Dataset/blob/main/Analyses_v2.ipynb)
 
----
 
 ## Data visualization
 As GitHub does not show the plots made in jupyter notebook, you can find a final dashboard version at Tableau. 
