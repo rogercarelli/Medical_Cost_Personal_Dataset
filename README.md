@@ -29,4 +29,5 @@ For futher information, please access the jupyter notebook file: [click here](ht
 
 ## Data visualization
 As GitHub does not show the plots made in jupyter notebook, you can find a final dashboard version at Tableau. 
-[Click here to see the dashboard](https://public.tableau.com/app/profile/roger5654/viz/MedicalCost_16522935532250/Dashboard1?publish=yes)
+
+[Click here to visualize the dashboard at Tableau](https://public.tableau.com/app/profile/roger5654/viz/MedicalCost_16522935532250/Dashboard1?publish=yes)
